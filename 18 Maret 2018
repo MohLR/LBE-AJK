@@ -1,0 +1,14 @@
+-Cryptography
+  Encryption
+  Decryption
+  Cipher
+-Networking
+-Forensics
+  langkah-langkah:
+  1. Identifikasi file
+  2. Ekstrak metadata file
+  3. Ekstrak isi file
+  4. Periksa isi file
+
+
+Latihan CTF dengan soal yang bisa saya jawab hanya jenis soal Forensics
